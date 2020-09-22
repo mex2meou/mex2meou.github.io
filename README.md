@@ -1,2 +1,2 @@
 # webpage
-My webpage
+My webpage for academic purposes.
